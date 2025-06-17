@@ -1,0 +1,13 @@
+# requirements.txt
+
+gradio
+torch
+diffusers
+accelerate
+transformers
+opencv-python-headless
+Pillow
+insightface
+onnxruntime
+# APIをPythonからテストするために使用
+gradio_client
